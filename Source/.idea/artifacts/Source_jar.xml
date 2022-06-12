@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Source:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Source_jar</output-path>
+    <root id="archive" name="Source.jar">
+      <element id="module-output" name="Policeman-Sokoban-java-game" />
+    </root>
+  </artifact>
+</component>
